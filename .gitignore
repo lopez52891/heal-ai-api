@@ -1,0 +1,9 @@
+# In .gitignore file
+.env
+venv/
+.vscode/
+__pycache__/
+patient_files/
+gold_standard_docs/
+Gold_Standard.zip
+faiss_diseases_db/

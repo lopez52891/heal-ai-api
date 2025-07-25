@@ -1,0 +1,14 @@
+# Server
+fastapi
+uvicorn[standard]
+python-dotenv
+
+# AI and RAG
+langchain
+langchain-google-genai
+google-generativeai
+faiss-cpu
+sentence-transformers
+requests
+pypdf
+python-multipart
